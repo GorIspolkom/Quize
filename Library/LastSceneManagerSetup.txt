@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/QUIZ.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

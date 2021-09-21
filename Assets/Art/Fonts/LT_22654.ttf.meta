@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ee7d0c9d12e1aa84a9a1c5ac6ecb388f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Porsche Franklin Gothic CYR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6a699724013a3e64586e3f3763c6ff95, type: 3}
+  - {fileID: 12800000, guid: c95a7b195f2e7914f8b0e026566479aa, type: 3}
+  - {fileID: 12800000, guid: cb99ad50f8e3a054986347ceea5248ee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

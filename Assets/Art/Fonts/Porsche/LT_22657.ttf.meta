@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bc81ae26f59bd7d40ad49abac8349780
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Porsche News Gothic CYR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 070c3e10ac0185044a0bd5b910390055, type: 3}
+  - {fileID: 12800000, guid: f7422e7b7ed05414489db98574fc0831, type: 3}
+  - {fileID: 12800000, guid: 672d4faec22cebb4982f0559515600aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
