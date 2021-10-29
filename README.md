@@ -10,11 +10,11 @@ A little documentation:
 
 The quiz can be customized, among the parameters:
 
-1) The number of mistakes allowed to win
-2) Response time
-3) Exit time after defeat/victory
-4) Questions in the quiz
-5) The time between the output of the question elements (question, picture, answer options)
+1) The number of mistakes allowed to win.
+2) Response time.
+3) Exit time after defeat/victory.
+4) Questions in the quiz.
+5) The time between the output of the question elements (question, picture, answer options).
 
 
 My tasks in the project are: developing a module for working with email, creating a player profile, working with a virtual keyboard, creating scripts for UI, layout, searching for bugs and errors.
