@@ -19,7 +19,7 @@ The quiz can be customized, among the parameters:
 
 My tasks in the project are: developing a module for working with email, creating a player profile, working with a virtual keyboard, creating scripts for UI, layout, searching for bugs and errors.
 
-The quiz questions are parsed from a Json file
+The quiz questions are parsed from a Json file.
 
 The order was taken on a freelance basis, the deadline is two weeks.
 
