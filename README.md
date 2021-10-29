@@ -23,9 +23,17 @@ The quiz questions are parsed from a Json file
 
 The order was taken on a freelance basis, the deadline is two weeks.
 
+Some beautiful screenshots:
+
+Start menu
 ![](images/1.png)
+Empty input fields
 ![](images/2.png)
+Input fields
 ![](images/3.png)
+Wrong answer
 ![](images/4.png)
+Lose
 ![](images/5.png)
+Right answer
 ![](images/6.png)
